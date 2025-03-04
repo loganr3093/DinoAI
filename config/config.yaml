@@ -1,0 +1,10 @@
+# config/config.yaml
+
+# This configuration file stores hyperparameters and settings for the project.
+# It includes parameters such as:
+#   - Learning rate
+#   - Epsilon decay rate
+#   - Discount factor (gamma)
+#   - Network architecture details
+#   - Other relevant settings for training and evaluation.
+# The main training loop and the agent modules read this file to configure their behavior.
